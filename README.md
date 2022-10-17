@@ -12,7 +12,7 @@ Maker Media GmbH
 
 ![Picture](./Aufmacher.jpg) 
 
-Den vollständigen Artikel gibt es in der [Elektrotechnik Sonderheft Make 7/22 ab Seite 23](https://www.heise.de/select/make/2022/7/seite-23). 
+Den vollständigen Artikel gibt es im [Elektrotechnik Sonderheft Make 7/22 ab Seite 23](https://www.heise.de/select/make/2022/7/seite-23). 
 
 Im FreeCAD die Dateien des Autors, im Blender-Verzeichnis die Werkzeuge im Blenderformat mit Spitzen aus 2mm Stahldraht.
 
